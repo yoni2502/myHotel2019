@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose');nnnnnn
 const Schema = mongoose.Schema;
 const {TIME_INT} = require('../consts');
 

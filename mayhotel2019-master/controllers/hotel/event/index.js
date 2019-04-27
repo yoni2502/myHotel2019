@@ -3,7 +3,7 @@ const Hotel       =   require('../../../schemas/hotel');
 const Event        =   require('../../../schemas/event');
 const {DATE_INT, TIME_INT}   =   require('../../../consts');
 
-// not finished
+// not finished test
 
 
 exports.addEvent = async (req) => new Promise((resolve, reject) => {
